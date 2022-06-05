@@ -1,0 +1,9 @@
+1). What is meaning of ORM ?
+--->Object–relational mapping
+
+Object-Relational Mapping (ORM) is a technique that lets you query and manipulate data from a database using an object-oriented paradigm.
+When talking about ORM, most people are referring to a library that implements the Object-Relational Mapping technique, hence the phrase "an ORM".
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+2). What is Object-Oriented Programming(OOPs) & types ?
+--->In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming.
